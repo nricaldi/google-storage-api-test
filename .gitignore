@@ -225,5 +225,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-files_to_ingest/mobilewalla/*
-!files_to_ingest/mobilewalla/.gitkeep 
+files_to_upload/*
+!files_to_upload/.gitkeep 
